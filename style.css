@@ -1,0 +1,24 @@
+.azul{
+    background-color: blue;
+    padding: 50px;
+    margin: 20px;
+    width: 430px;
+}
+.amarela{
+    background-color: yellow;
+    padding: 50px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
+.inv{
+    width: 430px;
+}
+.extender{
+    padding-right: 190px;
+}
+
+.alongar{
+    padding-bottom: 190px;
+}
