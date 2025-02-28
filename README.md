@@ -1,2 +1,2 @@
-Esta atividade foi proposta pelo professor Ícaro Botelho, que tem como matéria programação de aplicativos. A ideia dessa atividade foi para aprendermos a usarmos as divs, tanto a div normal como a flex.
+Esta atividade foi proposta pelo professor Ícaro Botelho, que tem como matéria programação de aplicativos. A ideia dessa atividade foi para aprendermos a fazermos layout usando elementos basicos do CSS (background-color, padding, margin, width, display: flex ,padding-right e padding-bottom) e as div's no html. Essa atividade fez com que eu aprendesse a utilizar a div's da maneira correta conseguindo fazer todos os layouts propostos no exercício postado no class.
 
